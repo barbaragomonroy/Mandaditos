@@ -1,0 +1,7 @@
+{
+  "name": "mandaditos",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
